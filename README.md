@@ -7,10 +7,10 @@ This repository contains the code for a modern UI/UX design in React.
 To install the project, follow these steps:
 
 1. Clone the repository:
- $ git clone https://github.com/username/Modern-UI-UX-in-React.git
+ ```git clone https://github.com/username/Modern-UI-UX-in-React.git```
 
 2. Navigate to the repository directory:
-$ cd Modern-UI-UX-in-React
+``` cd Modern-UI-UX-in-React```
 
 3. Install the required packages:
 $ npm install
@@ -20,7 +20,8 @@ $ npm install
 
 To use the project, follow these steps:
 
-1. Start the development server: $ npm start
+1. Start the development server: 
+``` npm start ```
 
 2. Open your browser and navigate to `http://localhost:3000/`.
 
